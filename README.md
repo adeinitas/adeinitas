@@ -1,12 +1,12 @@
 # 🔰 About Me:
 
-👋Hi, I’m Adeinitas and I claim to know what the fuck a C# is. 
+Hi, I’m Adeinitas and I claim to know what the fuck a C# is. 
 
-🌃 I dunno about you, but so far I'm interested in contributing to projects related to Space Station 14 or Space Station 13, both of which are open source!
+I dunno about you, but so far I'm interested in contributing to projects related to Space Station 14 or Space Station 13, both of which are open source!
 
-☄️ I'm currently trying to learn C# by osmosis and other things.
+I'm currently trying to learn C# by osmosis and other things.
 
-🦋 I do YAML. I'm a certified code polisher (or so I'd like to think.) I also do sprites, waow.
+I do YAML. I'm a certified code polisher (or so I'd like to think.) I also do sprites, waow.
 
 
 # 💻 Tech Stack:
@@ -15,6 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=adeinitas&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adeinitas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeinitas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adeinitas&icon=2&color=4)](https://visitcount.itsvg.in)
